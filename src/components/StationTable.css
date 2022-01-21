@@ -1,0 +1,24 @@
+.station-table {
+  text-align: center;
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.station-table td,
+.station-table th {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.station-table tr {
+  cursor: pointer;
+}
+
+.station-id {
+  width: 20%;
+}
+
+.station-name {
+  width: 80%;
+}
